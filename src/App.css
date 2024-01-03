@@ -30,6 +30,19 @@
   transition: .2s all;
   width: 100px;
 }
+.reset-button {
+  align-items: center;
+  background-color: rgb(255, 136, 237);
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 100px;
+  justify-content: center;
+  margin: 8px;
+  transition: .2s all;
+  width: 100px;
+}
 
 .counter-button:hover {
   transform: translateY(4px);
